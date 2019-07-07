@@ -1,0 +1,21 @@
+{
+  "name": "graphql_mern",
+  "version": "1.0.0",
+  "description": "this is a mern app based on graphql api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "node",
+    "mern",
+    "react"
+  ],
+  "author": "Hamza Khan",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
